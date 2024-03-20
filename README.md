@@ -1,16 +1,7 @@
-# pizza_app
+# Flutter Pizza App UI challenge
 
-A new Flutter project.
+## UI Reference : https://www.instagram.com/reel/C4p9re9NvSU/?igsh=dnFudDNrcGxyODBz
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/Dinesh-Sowndar/flutter_pizza_app_ui/assets/29474697/de493f61-f2d3-457a-ac56-a259d5109c70
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
